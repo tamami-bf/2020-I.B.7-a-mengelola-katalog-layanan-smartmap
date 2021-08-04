@@ -1,0 +1,86 @@
+== Aplikasi Smartmap
+
+image::by-sa.png[pdfwidth=25%]
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-sa/4.0/.
+
+=== Nama Layanan
+
+Aplikasi Smartmap
+
+=== Deskripsi layanan secara umum
+
+Layanan ini digunakan oleh petugas pemetaan untuk melakukan pengelolaan data spasial untuk jenis Pajak Bumi dan Bangunan Perdesaan dan Perkotaan (PBB-P2).
+
+=== Detail Syarat dan Ketentuan Layanan
+
+Syarat dan ketentuan penggunaan layanan ini adalah untuk pegawai internal yang memiliki kewenangan dan keahlian untuk melakukan pengelolaan data spasial untuk PBB-P2.
+
+=== Cakupan Pengguna
+
+Cakupan pengguna untuk layanan ini hanya untuk pegawai yang melakukan pengelolaan data spasial PBB-P2 di Badan Pendapatan Daerah Kabupaten Brebes.
+
+=== Pengelola Layanan
+
+Pengelolaan layanan ini adalah fungsional pranata komputer di lingkungan internal Badan Pendapatan Daerah Kabupaten Brebes.
+
+=== Waktu Berjalannya Layanan
+
+Layanan ini tersedia selama 24 jam 7 hari seminggu
+
+=== Referensi ke _template_ SLA (_Service Level Agreement_)
+
+Referensi _Service Level Agreement_ (SLA) untuk layanan ini merujuk ke dokumen https://github.com/tamami-bf/2021-sla-portal-pajak/blob/master/build/sla-layanan-ti.pdf
+
+=== _Notional Charging_
+
+Komponen biaya tetap untuk layanan pengguna ini menginduk pada biaya operasional yang digunakan Badan Pendapatan Daerah Kabupaten Brebes untuk layanan internet dan listrik.
+
+Sedangkan biaya variabel bergantung kebutuhan _server_ adalah peningkatan dari sisi memori dan tempat simpanan.
+
+=== Proses Untuk Permintaan Layanan Teknologi Informasi
+
+Proses permintaan layanan teknologi informasi untuk layanan Smartmap ini dilakukan dengan menghubungi Bagian Teknologi Informasi di Badan Pendapatan Daerah Kabupaten Brebes melalui beberapa kanal yang disediakan.
+
+=== Dampak operasional apabila terjadi gangguan
+
+Dampak operasional bila terjadi gangguan pada layanan Smartmap ini mengakibatkan pegawai yang melakukan pengelolaan data spasial tidak dapat melakukan kegiatannya.
+
+=== Daftar Layanan Pendukung Layanan Utama 
+
+Layanan pendukung yang harus tersedia agar layanan ini dapat berjalan adalah layanan basis data Oracle yang menyimpan data atribut untuk PBB-P2.
+
+=== Versi dan tanggal revisi 
+
+[cols="2,3", width="75%"]
+|===
+| Versi | Tanggal
+
+| 1.0 | 9 Oktober 2020
+|===
+
+<<<
+
+=== Lembar Persetujuan
+
+[cols="2,1,8", width="100%", frame=none, grid=none]
+|===
+| Nama Kegiatan | : | I.B.7 - Mengelola Katalog Layanan Pengguna
+| Judul | : | Katalog Layanan Pengguna - Aplikasi Smartmap
+|===
+
+[cols="5,5", width="100%", frame=none, grid=none]
+|===
+^| Disetujui oleh : ^| Disusun Oleh
+^| Sekretaris ^| Selesai tanggal 9 Oktober 2020
+^| Pada tanggal 9 Oktober 2020 | 
+| |
+| |
+| |
+^| ^| Priyanto Tamami, S.Kom
+^| ^| 19840409 201001 1 025
+|===
+
+
+
